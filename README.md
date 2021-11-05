@@ -18,5 +18,5 @@ I used dataset which was readily available in kaggle and trained them using ml m
 * Uptime Robot - Uptime Robot is a free tool used to monitor websites
 
 # Picture:
-![image](chat.png)
+![image](chatbot.png)
 
