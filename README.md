@@ -26,3 +26,4 @@ https://huggingface.co/chaitrabhat/DialoGPT-small-rick
 
 ![image](chatbot.png)
 
+## Every Morty needs a Rick, and every Discord server needs a Robo Rick!!!
