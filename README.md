@@ -12,11 +12,17 @@ One of the most unique features of the multi-level communication platform Discor
 I used dataset which was readily available in kaggle and trained them using ml model, later used Hugging Face to make the model conversational. The code is being run on repl.it as it is an online IDE that you can use on your web browser and doesn't require hosting. Finally used Uptime Robot to monitor website.
 
 
+# Hugging Face Repo Link:
+https://huggingface.co/chaitrabhat/DialoGPT-small-rick
+
+
 # Tech Used:
 * Machine Learning
 * Hugging Face - Hugging Face is an open-source & platform provider of machine learning technologies
 * Uptime Robot - Uptime Robot is a free tool used to monitor websites
 
+
 # Picture:
+
 ![image](chatbot.png)
 
