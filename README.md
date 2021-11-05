@@ -17,5 +17,6 @@ I used dataset which was readily available in kaggle and trained them using ml m
 * Hugging Face - Hugging Face is an open-source & platform provider of machine learning technologies
 * Uptime Robot - Uptime Robot is a free tool used to monitor websites
 
-
+# Picture:
+![image](chat.png)
 
